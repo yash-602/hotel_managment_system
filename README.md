@@ -8,11 +8,6 @@ A comprehensive desktop application built with **Java** and **JavaFX** for manag
 
 ---
 
-## 🎥 Live Demonstration
-*(Upload your GIF here! Simply drag and drop your recorded GIF into the GitHub editor to replace this text).*
-
----
-
 ## ✨ Key Features
 
 * **Dashboard Analytics:** Real-time overview of total revenue, room availability, and a visual grid of all rooms.

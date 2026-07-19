@@ -25,11 +25,13 @@ A comprehensive desktop application built with **Java** and **JavaFX** for manag
 
 
 ### Booking a Room
-<img width="1912" height="966" alt="DashBoard Pic" src="https://github.com/user-attachments/assets/861881c2-7207-4d35-a8ef-4acf623a756a" />
+<img width="1765" height="587" alt="Booking Pic" src="https://github.com/user-attachments/assets/788bd535-9c35-4745-bc5c-b61c6629230a" />
+
 
 
 ### Generating a Bill
-<img width="1765" height="587" alt="Booking Pic" src="https://github.com/user-attachments/assets/dfd00ce2-f9c1-434b-921c-3235e1741a4e" />
+<img width="665" height="705" alt="Billing pic" src="https://github.com/user-attachments/assets/9800f379-2681-4284-88ea-64010ed17b7f" />
+
 
 
 ---

@@ -21,13 +21,16 @@ A comprehensive desktop application built with **Java** and **JavaFX** for manag
 ## 📸 Screenshots
 
 ### The Main Dashboard
-*(Drag and drop a screenshot of the dashboard here)*
+<img width="1912" height="966" alt="DashBoard Pic" src="https://github.com/user-attachments/assets/0c2b03ae-b189-45aa-b4e6-893ab0091012" />
+
 
 ### Booking a Room
-*(Drag and drop a screenshot of the booking tab here)*
+<img width="1912" height="966" alt="DashBoard Pic" src="https://github.com/user-attachments/assets/861881c2-7207-4d35-a8ef-4acf623a756a" />
+
 
 ### Generating a Bill
-*(Drag and drop a screenshot of the billing receipt here)*
+<img width="1765" height="587" alt="Booking Pic" src="https://github.com/user-attachments/assets/dfd00ce2-f9c1-434b-921c-3235e1741a4e" />
+
 
 ---
 
